@@ -11,7 +11,7 @@ setuptools.setup(
     description="Data Science enabled Data extraction and control library for Arduino with easy Data Visualizations !.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/SayadPervez/Arduino_Master",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
